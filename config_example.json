@@ -1,0 +1,13 @@
+{
+  "option_parameters": {
+    "interest_rate": 0.02,
+    "volatility": 0.30,
+    "dividend_yield": 0.01,
+    "initial_stock_price": 100.0,
+    "strike_price": 110.0,
+    "time_to_maturity": 0.25,
+    "number_of_periods": 15,
+    "option_type": "put",
+    "option_style": "american"
+  }
+}
